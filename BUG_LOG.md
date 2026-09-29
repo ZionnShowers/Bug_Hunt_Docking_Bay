@@ -60,9 +60,9 @@ Answer each in 2–3 sentences.
 6. Some bugs hid until you fixed a different one. Give one example.
 
 ANSWER:
-1. Bug 11 took me the longest as I had to write new lines of code to amke sense within the context of the program while trying not to go too far.
-2. I don't remember exception it gave me, but bug 8 told me the the number was not an acceptable because there was no function in case number wasn't in range.
-3.  I don't remember, but I think it may be because it tries to delete everything, including the ones it doesn't have values for.
-4. It was only loading the ships controlls twice and didn't include ones for pilots.
-5. Because they are viable inputs and can fit within any context.
-6. Most of these bugs appeared after renaming some lines of code that didn't match up with previously written lines of code/
+1. Bug 11 took me the longest. I had to write new lines of code to make sense within the context of the program while trying not to go too far.
+2. I don't remember exception it gave me, but I believe it was something with bug 8. I think it told me the the number was not an acceptable because there was no function in case number wasn't in range.
+3.  I don't remember excactl. However, I think it may be because it tries to delete everything, including the ones it doesn't have values for.
+4. It was only loading the ships controlls. There was nothing for the pilots, so I had to include ones to make it work.
+5. Because they are viable inputs and can fit within any context. The program only checks for spelling and coding errors.
+6. Most of these bugs appeared after renaming some lines of code that didn't match up with previously written lines of code. For example, renaming some of the .cs files caused me to fix a bunch of the names inside other .cs files.
